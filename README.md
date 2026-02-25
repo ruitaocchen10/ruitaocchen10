@@ -1,8 +1,74 @@
-## Hi there 👋
+# Ruitao Chen
 
-- 🌱 I’m currently spending most of my time learning Python and SQL. I've also learnt HTML, CSS, JavaScript, Typescript and React.
-- 👯 I’m looking to collaborate on data projects and business projects (particularly related to sports, music, or food). I also love working on mobile and web apps.
-- 🤔 I’m looking for help with continuing to build strong development and data fundamentals.
-- 💬 Ask me about coding, sports, cookings, or music!
-- 📫 How to reach me: ruitaocchen@gmail.com
-- ⚡ Fun fact: I can name the US Presidents in order, solve a Rubik's Cube in 30 seconds, and juggle.
+Product-minded developer building AI-powered tools for fitness, data, and performance.
+
+---
+
+## About Me
+
+I started in marketing, transitioned into UX design, and now build full-stack applications with a focus on AI integration and data-driven products.
+
+My background in UX and product thinking allows me to approach engineering with a strong emphasis on usability, clarity, and real-world problem solving — not just code.
+
+Currently focused on:
+- Backend architecture & system design
+- AI-assisted workflows and agent-style applications
+- Data modeling and analytics foundations
+- Shipping real, production-ready projects
+
+---
+
+## Tech Stack
+
+### Languages
+TypeScript • Python • SQL • JavaScript
+
+### Frontend
+React • Next.js • Tailwind CSS
+
+### Backend & Data
+Node.js • PostgreSQL • Supabase
+
+### AI & APIs
+Google Gemini API • REST APIs • Prompt Engineering
+
+### Tools
+Git • GitHub • VS Code • Postman
+
+---
+
+## Featured Projects
+
+### Macro Meal Generator
+AI-powered web application that generates structured daily eating routines based on user-defined calorie and macro targets.  
+**Tech:** Next.js, TypeScript, Gemini API
+
+---
+
+### Fitness Progress Tracker (Concept → Build)
+Mobile-first app focused on reducing logging friction and objectively tracking fitness and skill progression.  
+Designed with an emphasis on behavioral psychology and performance metrics.
+
+---
+
+### AI Workflow Experiments
+Exploring agentic systems and AI-assisted problem detection tools to automate research and surface meaningful patterns from online communities.
+
+---
+
+## What I'm Building Toward
+
+I’m working toward roles in:
+- Software Engineering
+- Data / Analytics Engineering
+- AI-focused product development
+
+My goal is to build tools that reduce friction, improve clarity, and help people perform better — physically, mentally, and professionally.
+
+---
+
+## Connect With Me
+
+Open to collaborating on interesting projects in fitness tech, AI tools, or data-driven applications.
+
+Let’s build things that actually solve problems.
