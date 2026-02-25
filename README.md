@@ -17,7 +17,7 @@ My background in UX and product thinking allows me to approach engineering with 
 
 Currently focused on learning:
 - Backend architecture & system design
-- AI-assisted workflows and agent-style applications
+- AI-assisted workflows and agentic applications
 - Cloud concepts and data modeling
 - Shipping real, production-ready projects
 
