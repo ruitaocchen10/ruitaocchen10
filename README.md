@@ -1,9 +1,5 @@
 # Hi, I'm Ruitao! 👋
 
-Product-minded developer building AI-powered tools for fitness, data, and performance.
-
-## About Me
-
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
