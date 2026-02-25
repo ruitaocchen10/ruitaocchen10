@@ -27,16 +27,14 @@ Currently focused on learning:
 
 ## Featured Projects
 
-### Macro Meal Generator
-AI-powered web application that generates structured daily eating routines based on user-defined calorie and macro targets.  
-**Tech:** Next.js, TypeScript, Gemini API
+### Habbittrak
+Daily habit tracker app with social features to allow for accountability and collaboration
 
-### Fitness Progress Tracker (Concept → Build)
-Mobile-first app focused on reducing logging friction and objectively tracking fitness and skill progression.  
-Designed with an emphasis on behavioral psychology and performance metrics.
+### Prizepicks Data Dashboard
+Dashboard for data analysts to review sharp bettors and plus EV opportunities for PrizePicks bettors.
 
-### AI Workflow Experiments
-Exploring agentic systems and AI-assisted problem detection tools to automate research and surface meaningful patterns from online communities.
+### Recruit Ready
+AI ATL 2025 Hackathon Project: AI-powered mock interview platform that provides real-time feedback on posture, speech, and body language. Combines computer vision, audio analysis, and an intelligent AI interviewer to help users practice and improve their interview skills.
 
 ## What I'm Building Toward
 
