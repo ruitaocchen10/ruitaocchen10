@@ -1,10 +1,10 @@
-# Ruitao Chen
+# Hi, I'm Ruitao! 👋
 
 Product-minded developer building AI-powered tools for fitness, data, and performance.
 
----
-
 ## About Me
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 I started in marketing, transitioned into UX design, and now build full-stack applications with a focus on AI integration and data-driven products.
 
