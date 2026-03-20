@@ -23,7 +23,7 @@ Currently focused on learning:
 
 ## Featured Projects
 
-### Habbittrak
+### Viablyy
 Daily habit tracker app with social features to allow for accountability and collaboration
 
 ### Prizepicks Data Dashboard
