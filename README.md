@@ -43,6 +43,6 @@ I’m working toward building:
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruitao_Chen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ruitaocchen/)
-[![YouTube](https://img.shields.io/badge/YouTube-Ruitao_Chen-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YOUR-CHANNEL](https://www.youtube.com/@ruitaocc)
+[![YouTube](https://img.shields.io/badge/YouTube-Ruitao_Chen-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ruitaocc)
 
 Open to collaborating on interesting projects in human-learning with AI, fitness and sports tech, or any other cool project!
