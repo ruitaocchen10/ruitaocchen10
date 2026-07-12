@@ -11,15 +11,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-I started in marketing, transitioned into UX design, and now build full-stack solutions with a focus on AI-Integration and Agentic Workflows.
-
-My background in UX and product thinking allows me to approach engineering with a strong emphasis on usability, clarity, and problem solving.
-
-Currently focused on learning:
-- Backend architecture & system design
-- AI-assisted workflows and agentic applications
-- Cloud concepts and data modeling
-- Shipping real, production-ready projects
+I enjoy discovering messy problems and building AI-assisted software that solves them.
 
 ## Featured Projects
 
@@ -35,10 +27,8 @@ AI ATL 2025 Hackathon Project: AI-powered mock interview platform that provides 
 ## What I'm Building Toward
 
 I’m working toward building:
-- Full-stack solutions that solve specific problems
-- Scalability and strong system design
-- AI-focused product development
-- Embracing new technology in a way that enhances human capabilities
+- Building products that combine user research, data analysis, and software engineering.
+- AI-focused approach to problem solving
 
 ## Connect With Me
 
