@@ -15,6 +15,9 @@ I enjoy discovering messy problems and building AI-assisted software that solves
 
 ## Featured Projects
 
+### Footing
+A data-driven career guidance platform for young professionals that turns public workforce data into plain-language career pathways, skill roadmaps, and concrete next steps.
+
 ### Viablyy
 Daily habit tracker app with social features to allow for accountability and collaboration
 
