@@ -4,7 +4,14 @@ I'm a product builder who uses conversations, data, and software to turn ambiguo
 
 ### Currently building
 
-**Footing** — a platform helping young professionals discover data-backed career paths based on their backgrounds.
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>Footing</h3>
+      <p>A platform helping young professionals discover data-backed career paths based on their backgrounds.</p>
+    </td>
+  </tr>
+</table>
 
 ### Tools I use
 
