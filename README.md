@@ -12,4 +12,5 @@ I'm a product builder who uses conversations, data, and software to turn ambiguo
 
 ### Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/ruitaocchen/) · [YouTube](https://www.youtube.com/@ruitaocc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruitao_Chen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruitaocchen/)
+[![YouTube](https://img.shields.io/badge/YouTube-Ruitao_Chen-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ruitaocc)
