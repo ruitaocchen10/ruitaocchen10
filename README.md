@@ -13,10 +13,10 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-  • I use daily: Claude Code, Codex, Python, Typescript.
-  • I'm currently working on: 
+- I use daily: Claude Code, Codex, Python, Typescript.
+- I'm currently working on: 
   Footing - A platform for young professionals to find data-backed career pathways for their backgrounds
-- 
+
 
 ## Connect With Me
 
