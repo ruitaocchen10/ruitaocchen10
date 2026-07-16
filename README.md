@@ -15,7 +15,8 @@
 
   • I use daily: Claude Code, Codex, Python, Typescript.
   • I'm currently working on: 
-Footing - A platform to help young professionals discover data-backed career pathways
+  Footing - A platform for young professionals to find data-backed career pathways for their backgrounds
+- 
 
 ## Connect With Me
 
