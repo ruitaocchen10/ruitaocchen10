@@ -1,6 +1,6 @@
-# Hi, I'm Ruitao 😀
+## Hi, I'm Ruitao 😀
 
-### I'm a product builder - I work with users and data to find the problem and implement the solution.
+#### I'm a product builder - I work with users and data to find the problem and implement the solution.
 
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -15,10 +15,10 @@
 
 - I use daily: Claude Code, Codex, Python, Typescript.
 - I'm currently working on: 
-  Footing - A platform for young professionals to find data-backed career pathways for their backgrounds
+  - Footing - A platform for young professionals to find data-backed career pathways for their backgrounds
 
 
-## Connect With Me
+#### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruitao_Chen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ruitaocchen/)
 [![YouTube](https://img.shields.io/badge/YouTube-Ruitao_Chen-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ruitaocc)
