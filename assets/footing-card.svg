@@ -1,0 +1,64 @@
+<svg width="840" height="240" viewBox="0 0 840 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Footing</title>
+  <desc id="description">A platform helping young professionals discover data-backed career paths based on their backgrounds.</desc>
+
+  <defs>
+    <linearGradient id="card" x1="24" y1="18" x2="816" y2="222" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111C31"/>
+      <stop offset="0.58" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#0A1720"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="557" y1="181" x2="774" y2="54" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.52" stop-color="#34D399"/>
+      <stop offset="1" stop-color="#A3E635"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(730 40) rotate(129.5) scale(221 261)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34D399" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#34D399" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-30" y="-30" width="900" height="300" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+    <clipPath id="clip">
+      <rect x="1" y="1" width="838" height="238" rx="19"/>
+    </clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="838" height="238" rx="19" fill="url(#card)"/>
+  <g clip-path="url(#clip)">
+    <ellipse cx="743" cy="31" rx="235" ry="181" fill="url(#glow)"/>
+    <circle cx="98" cy="-39" r="110" fill="#3B82F6" fill-opacity="0.08" filter="url(#blur)"/>
+
+    <path d="M546 183C590 173 606 121 651 115C700 108 704 60 771 53" stroke="#203044" stroke-width="18" stroke-linecap="round"/>
+    <path d="M546 183C590 173 606 121 651 115C700 108 704 60 771 53" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+
+    <g opacity="0.24">
+      <circle cx="546" cy="183" r="25" stroke="#22D3EE"/>
+      <circle cx="651" cy="115" r="31" stroke="#34D399"/>
+      <circle cx="771" cy="53" r="38" stroke="#A3E635"/>
+    </g>
+    <circle cx="546" cy="183" r="8" fill="#0B1220" stroke="#22D3EE" stroke-width="4"/>
+    <circle cx="651" cy="115" r="9" fill="#0B1220" stroke="#34D399" stroke-width="4"/>
+    <circle cx="771" cy="53" r="10" fill="#0B1220" stroke="#A3E635" stroke-width="4"/>
+
+    <g opacity="0.42" fill="#94A3B8">
+      <circle cx="586" cy="166" r="2"/>
+      <circle cx="612" cy="139" r="2"/>
+      <circle cx="684" cy="101" r="2"/>
+      <circle cx="718" cy="77" r="2"/>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="838" height="238" rx="19" stroke="#253348" stroke-width="2"/>
+
+  <rect x="42" y="36" width="196" height="28" rx="14" fill="#162538" stroke="#294158"/>
+  <circle cx="58" cy="50" r="4" fill="#34D399"/>
+  <text x="70" y="54" fill="#A7F3D0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="700" letter-spacing="1.1">DATA-BACKED PATHWAYS</text>
+
+  <text x="40" y="119" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="44" font-weight="700" letter-spacing="-1.4">Footing</text>
+  <text x="42" y="156" fill="#A8B5C7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16" font-weight="400">
+    <tspan x="42" dy="0">A platform helping young professionals discover</tspan>
+    <tspan x="42" dy="25">data-backed career paths based on their backgrounds.</tspan>
+  </text>
+</svg>
