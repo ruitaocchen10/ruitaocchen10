@@ -4,8 +4,8 @@ I'm a product builder who uses conversations, data, and software to turn ambiguo
 
 #### Projects
 
-- Currently building: [Footing](https://github.com/ruitaocchen10/Footing)
-- Created: [Habbit](https://github.com/ruitaocchen10/habbit)
+- Currently building: [ball party]
+- Created: [footing], [notebox]
 
 #### Tools I use
 
